@@ -1,0 +1,65 @@
+# Build artifacts and compiled files
+*.so
+*.egg-info/
+build/
+dist/
+
+
+# CUDA compilation artifacts
+.ninja_deps
+.ninja_log
+*.o
+
+
+# Binary files
+*.pt2
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.mlmodel
+
+
+# Environment specific files
+*.egg
+*.cpython-*
+
+# Temp directories
+temp/
+outputs/
+
+# Large model files directory structure
+Data_Processing/src/Sapiens/TS_Files/
+
+.idea/
+*/__pycache__/
+__pycache__/
+PyOpenGL/Sample_FBX_Meshes
+PyOpenGL/Sample_OBJ_Meshes
+Sapiens/TS_Files/
+Script_Playground
+Data
+Renders
+*.iml
+*.mp4
+*.avi
+*.pyc
+*.npy
+*.zip
+*.pt
+*.lock
+/PyOpenGL/.locks/
+/PyOpenGL/models--facebook--dinov2-large/
+/PyOpenGL/output/
+/Script_Playground/
+/Data_Processing/output/
+/Swin3D_Main/build/
+/Trained_Models/
+/Training_Logs/
+/Eval_Results/
+/Notes/
+/Model/point_transformer/
+/data/
+/Data_Processing/src/PointTransformerV3
+/Data_Processing/src/m2fp
+/Data_Processing/src/Sapiens/TS_Files/seg

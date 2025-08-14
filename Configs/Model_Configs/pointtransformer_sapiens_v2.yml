@@ -1,0 +1,7 @@
+# model name and task
+model_name: PointTransformer
+task: human_3d_pc_semantic_segmentation
+
+# model params
+k: 18
+c: 3

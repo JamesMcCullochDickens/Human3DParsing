@@ -1,0 +1,6 @@
+sudo apt update
+sudo apt install libglfw3-dev libglew-dev libgl1-mesa-dev libxrandr-dev libxinerama-dev libxcursor-dev libxi-dev
+pip install PyOpenGL PyOpenGL_accelerate
+pip install glfw
+pip install freeglut
+pip install PyGLM

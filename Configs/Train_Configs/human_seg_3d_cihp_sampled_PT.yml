@@ -1,0 +1,35 @@
+# Dataset Params
+overall_dataset_name: "Human_3d_Seg"
+task: "human_3d_pc_semantic_segmentation"
+dataset_name: "cihp_part"
+with_random_rot: true
+with_point_jitter: false
+preprocess_func_name: "point_transformer_preprocess"
+
+#dataloader params
+batch_size: 32
+num_workers: 8
+
+# optimizer
+optimizer_type: sgd
+base_lr: 0.01
+weight_decay: 0.00005
+momentum: 0.95
+nesterov: true
+
+# learning rate scheduler
+lrs_scheduler: cosine_annealing
+
+# loss function
+loss_fn: cross_entropy_and_dice
+
+# training info
+with_ddp: true
+num_epochs: 100
+with_testing: true
+with_train_accuracy: false
+starting_test_epoch: 10
+with_16_bit_precision: false
+
+# testing info
+with_test: true
