@@ -131,6 +131,20 @@ TODO: Information about the dataset used, how to obtain it, and preprocessing st
 | Method B | X.XX   | X.XX     | X.XX     |-->
 
 ## Citation
+To cite this work cite the following:
+
+```
+@misc{dickens2025segmentationhumanmeshesmultiview,
+      title={Part Segmentation of Human Meshes via Multi-View Human Parsing}, 
+      author={James Dickens and Kamyar Hamad},
+      year={2025},
+      eprint={2507.18655},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.18655}, 
+}
+```
+
 Please cite the following works:
 ```bibtex
 @article{yang2023humanparsing,
