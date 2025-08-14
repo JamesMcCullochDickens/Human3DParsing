@@ -72,7 +72,7 @@ Data_Preprocessing/
 ├── __init__.py 
 ```
 To use m2fp as 2d segmentor, clone the official implementation into the src/ directory.
-See https://github.com/soeaver/M2FP.
+See https://github.com/soeaver/M2FP. Requires Detectron2 and Cuda toolkit installations.
 
 the Sapiens torchscript files is available here:
 https://huggingface.co/facebook/sapiens-pose-1b-torchscript
