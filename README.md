@@ -163,7 +163,7 @@ bibtex
 ```
 
 Please also cite the following works:
-'''
+```
 bibtex
 
 @article{khirodkar2024sapiens,
