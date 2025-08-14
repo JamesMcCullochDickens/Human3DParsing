@@ -149,7 +149,8 @@ To cite this work cite the following:
 
 To cite this work, please use:
 
-```bibtex
+```
+bibtex
 @misc{dickens2025segmentationhumanmeshesmultiview,
   title={Part Segmentation of Human Meshes via Multi-View Human Parsing}, 
   author={James Dickens and Kamyar Hamad},
@@ -162,6 +163,8 @@ To cite this work, please use:
 ```
 
 Please also cite the following works:
+'''
+bibtex
 
 @article{khirodkar2024sapiens,
   title={Sapiens: Foundation for Human Vision Models},
@@ -185,5 +188,3 @@ Please also cite the following works:
 ## Acknowledgments
 
 We thank the [THUman2.0 dataset](https://github.com/ytrock/THuman2.0-Dataset) for providing the human scans used in this work; please cite the dataset if you use it.
-
-
