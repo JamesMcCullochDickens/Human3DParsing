@@ -32,11 +32,10 @@ Human3DSeg/
 ├── data_fps.py           
 ├── utils/                # Utility functions and helper modules
 ├── README.md             # Project documentation
-
+```
 
 Prepcoessed data is available at:
 https://drive.google.com/drive/folders/1JU8f-IQLJxt3Gsuu4AEq61xD8vanAfXF?usp=sharing
-```
 
 ## Installation
 
