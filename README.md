@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Human3DSEG: Part Segmentation of Human Meshes via Multi-View Human Parsing**  
-> [James Dickens](https://github.com/JamesMcCullochDickens), Kamyar Hamad  
+> James Dickens, Kamyar Hamad  
 > 2025
 
 ![THuman2 1_Release_301-600_0303](https://github.com/user-attachments/assets/1ebf4995-3112-4162-bb53-0b1cad397b0f)
@@ -149,9 +149,8 @@ To cite this work cite the following:
 
 To cite this work, please use:
 
-```
-bibtex
-@misc{dickens2025segmentationhumanmeshesmultiview,
+```bibtex
+@article{dickens2025segmentationhumanmeshesmultiview,
   title={Part Segmentation of Human Meshes via Multi-View Human Parsing}, 
   author={James Dickens and Kamyar Hamad},
   year={2025},
@@ -163,8 +162,7 @@ bibtex
 ```
 
 Please also cite the following works:
-```
-bibtex
+```bibtex
 
 @article{yang2023humanparsing,
   title={Deep Learning Technique for Human Parsing: A Survey and Outlook},
