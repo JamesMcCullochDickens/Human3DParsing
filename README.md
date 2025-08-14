@@ -166,6 +166,13 @@ Please also cite the following works:
 ```
 bibtex
 
+@article{yang2023humanparsing,
+  title={Deep Learning Technique for Human Parsing: A Survey and Outlook},
+  author={Lu Yang and Wenhe Jia and Shan Li and Qing Song},
+  journal={arXiv preprint arXiv:2301.00394},
+  year={2023}
+}
+
 @article{khirodkar2024sapiens,
   title={Sapiens: Foundation for Human Vision Models},
   author={Khirodkar, Rawal and Bagautdinov, Timur and Martinez, Julieta and Zhaoen, Su and James, Austin and Selednik, Peter and Anderson, Stuart and Saito, Shunsuke},
