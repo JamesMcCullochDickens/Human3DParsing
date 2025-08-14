@@ -145,14 +145,23 @@ To cite this work cite the following:
 }
 ```
 
-Please cite the following works:
+## Citation
+
+To cite this work, please use:
+
 ```bibtex
-@article{yang2023humanparsing,
-  title={Deep Learning Technique for Human Parsing: A Survey and Outlook},
-  author={Lu Yang and Wenhe Jia and Shan Li and Qing Song},
-  journal={arXiv preprint arXiv:2301.00394},
-  year={2023}
+@misc{dickens2025segmentationhumanmeshesmultiview,
+  title={Part Segmentation of Human Meshes via Multi-View Human Parsing}, 
+  author={James Dickens and Kamyar Hamad},
+  year={2025},
+  eprint={2507.18655},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2507.18655}, 
 }
+```
+
+Please also cite the following works:
 
 @article{khirodkar2024sapiens,
   title={Sapiens: Foundation for Human Vision Models},
